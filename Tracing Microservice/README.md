@@ -12,7 +12,7 @@ $ kubectl apply -f yamls/jaeger/jaeger-all-in-one-template.yml
 ```
 $ git clone https://github.com/cloudyuga/e-cart.git
 $ cd e-cart
-$ git checkout ninth-prometheus
+$ git checkout eleventh-jaeger
 $ rm k8s/prometheus.yaml
 $ rm k8s/all-in-one-ecart.yaml
 $ kubectl apply -f k8s/.
