@@ -1,3 +1,5 @@
+## Horizontal Pod Scaling
+
 - Clone the Repository.
 ```
 $ git clone https://github.com/stefanprodan/k8s-prom-hpa /tmp/hpa
